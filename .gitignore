@@ -1,0 +1,11 @@
+**/.pbi/localSettings.json
+**/.pbi/cache.abf
+data/
+venv/
+env/
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
