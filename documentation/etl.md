@@ -9,7 +9,7 @@ Este proyecto implementa un proceso ETL (Extract, Transform, Load) completo para
 Excel → Python → Staging Schema → Analytics Schema → Power BI
 ```
 
-![Diagrama ETL](resources/ETL.jpeg)
+![Diagrama ETL](resources/etl-diagram.jpeg)
 
 ## Fases del Proceso ETL
 
